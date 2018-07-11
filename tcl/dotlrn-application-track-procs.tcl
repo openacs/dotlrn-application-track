@@ -47,7 +47,7 @@ namespace eval dotlrn_application_track {
     } {
 	returns the pretty name
     } {
-       	return "#application-track.application_track_managment#"
+       	return "#application-track.application_track_management#"
     }
 
     ad_proc -public add_applet {
